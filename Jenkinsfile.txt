@@ -39,6 +39,7 @@ pipeline {
 				echo "Inside Deploy to Staging stage"
 				echo "Using AWS Command Line Interface"
 				echo "Deploy to Staging completed"
+				echo "Testing commit"
             }
         }
         
